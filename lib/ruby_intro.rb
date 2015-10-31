@@ -3,7 +3,7 @@
 # Part 1
 
 def sum arr
-  # YOUR CODE HERE
+  # YOUR CODE HERE OD
 end
 
 def max_2_sum arr
